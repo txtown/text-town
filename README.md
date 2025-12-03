@@ -2,5 +2,4 @@
 
 MacOS (M1,M2,M*) 一鍵安裝
 
-`curl -fsSL https://github.com/txtown/text-town/releases/latest/downloa
-  d/txtown-macos-arm64 -o txtown && chmod +x txtown && ./txtown`
+`curl -fsSL https://github.com/txtown/text-town/releases/latest/download/txtown-macos-arm64 -o txtown && chmod +x txtown && ./txtown`
